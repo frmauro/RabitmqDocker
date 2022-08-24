@@ -1,7 +1,7 @@
 ###############
 # Directories #
 ###############
-data/
+data/*
 dotnet/
 java/
 nodejs/
